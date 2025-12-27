@@ -1,0 +1,156 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply font-serif;
+  }
+
+  /* Focus visible styles for accessibility */
+  *:focus-visible {
+    @apply outline-none ring-2 ring-teal ring-offset-2;
+  }
+
+  /* Skip to content link for accessibility */
+  .skip-to-content {
+    @apply sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-50 focus:px-4 focus:py-2 focus:bg-forest-green focus:text-white focus:rounded;
+  }
+}
+
+@layer components {
+  /* Prose styles for MDX content */
+  .prose {
+    @apply max-w-article mx-auto;
+  }
+
+  .prose h1 {
+    @apply text-h1-mobile md:text-h1-desktop font-sans text-charcoal mb-6 mt-0;
+  }
+
+  .prose h2 {
+    @apply text-h2-mobile md:text-h2-desktop font-sans text-charcoal mb-4 mt-10;
+  }
+
+  .prose h3 {
+    @apply text-h3-mobile md:text-h3-desktop font-sans text-charcoal mb-3 mt-8;
+  }
+
+  .prose h4 {
+    @apply text-h4 font-sans text-charcoal mb-2 mt-6;
+  }
+
+  .prose p {
+    @apply text-body font-serif text-charcoal mb-6 leading-relaxed;
+  }
+
+  .prose ul,
+  .prose ol {
+    @apply mb-6 space-y-2 pl-6;
+  }
+
+  .prose li {
+    @apply text-body font-serif text-charcoal;
+  }
+
+  .prose ul li {
+    @apply list-disc;
+  }
+
+  .prose ol li {
+    @apply list-decimal;
+  }
+
+  .prose a {
+    @apply text-teal hover:text-forest-green underline transition-colors;
+  }
+
+  .prose strong {
+    @apply font-semibold text-charcoal;
+  }
+
+  .prose em {
+    @apply italic;
+  }
+
+  .prose blockquote {
+    @apply border-l-4 border-sage pl-6 py-2 my-8 italic text-dark-gray;
+  }
+
+  .prose code {
+    @apply bg-light-gray px-2 py-1 rounded text-sm font-mono;
+  }
+
+  .prose pre {
+    @apply bg-charcoal text-warm-cream p-4 rounded-lg overflow-x-auto mb-6;
+  }
+
+  .prose pre code {
+    @apply bg-transparent p-0;
+  }
+
+  .prose img {
+    @apply rounded-lg my-8;
+  }
+
+  .prose figcaption {
+    @apply text-caption text-dark-gray text-center mt-2 italic;
+  }
+
+  .prose hr {
+    @apply border-t border-light-gray my-12;
+  }
+
+  .prose table {
+    @apply w-full border-collapse my-8;
+  }
+
+  .prose th {
+    @apply bg-light-gray font-sans font-semibold text-left p-3 border border-medium-gray;
+  }
+
+  .prose td {
+    @apply p-3 border border-medium-gray;
+  }
+
+  /* Button styles */
+  .btn {
+    @apply inline-flex items-center justify-center px-6 py-3 font-sans font-semibold rounded-lg transition-all focus:outline-none focus:ring-2 focus:ring-offset-2;
+  }
+
+  .btn-primary {
+    @apply bg-forest-green text-white hover:bg-forest-green/90 focus:ring-teal;
+  }
+
+  .btn-secondary {
+    @apply bg-sage text-charcoal hover:bg-sage/90 focus:ring-teal;
+  }
+
+  .btn-outline {
+    @apply border-2 border-forest-green text-forest-green hover:bg-forest-green hover:text-white focus:ring-teal;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "pain-relief",
+    "name": "Pain Relief",
+    "slug": "pain-relief",
+    "description": "Discover evidence-based acupuncture and Traditional Chinese Medicine approaches for managing chronic and acute pain. Learn about treatment options for back pain, neck pain, headaches, arthritis, and more.",
+    "metaDescription": "Evidence-based acupuncture treatments for chronic pain relief. Expert guidance on managing back pain, migraines, arthritis, and more through Traditional Chinese Medicine.",
+    "icon": "pain",
+    "color": "#14453d",
+    "featuredImage": "/images/categories/pain-relief.svg",
+    "parent": null,
+    "articleCount": 0,
+    "seoKeywords": ["acupuncture for pain", "chronic pain relief", "back pain treatment", "pain management"]
+  },
+  {
+    "id": "mental-health",
+    "name": "Mental Health",
+    "slug": "mental-health",
+    "description": "Explore how acupuncture and holistic wellness practices support mental health. Research-backed information on managing anxiety, depression, stress, and sleep disorders through Traditional Chinese Medicine.",
+    "metaDescription": "Evidence-based acupuncture for mental health. Learn how TCM supports anxiety relief, depression management, stress reduction, and better sleep quality.",
+    "icon": "brain",
+    "color": "#7a9e94",
+    "featuredImage": "/images/categories/mental-health.svg",
+    "parent": null,
+    "articleCount": 0,
+    "seoKeywords": ["acupuncture for anxiety", "stress relief", "natural depression treatment", "sleep improvement"]
+  },
+  {
+    "id": "acupressure",
+    "name": "Acupressure",
+    "slug": "acupressure",
+    "description": "Master self-care acupressure techniques you can practice at home. Step-by-step guides for pressure point therapy to relieve headaches, nausea, tension, and more without needles.",
+    "metaDescription": "Learn acupressure techniques for self-care. Step-by-step pressure point guides for headache relief, nausea, stress, and natural healing at home.",
+    "icon": "hand",
+    "color": "#0d9488",
+    "featuredImage": "/images/categories/acupressure.svg",
+    "parent": null,
+    "articleCount": 0,
+    "seoKeywords": ["acupressure points", "pressure point therapy", "self acupressure", "acupressure techniques"]
+  },
+  {
+    "id": "tcm",
+    "name": "Traditional Chinese Medicine",
+    "slug": "tcm",
+    "description": "Understand the foundational principles of Traditional Chinese Medicine. Learn about meridian systems, qi energy, yin-yang balance, and the philosophy behind acupuncture and holistic healing.",
+    "metaDescription": "Explore Traditional Chinese Medicine principles, meridian systems, qi energy, and the ancient wisdom behind acupuncture and holistic healing practices.",
+    "icon": "yin-yang",
+    "color": "#14453d",
+    "featuredImage": "/images/categories/tcm.svg",
+    "parent": null,
+    "articleCount": 0,
+    "seoKeywords": ["traditional chinese medicine", "TCM principles", "meridian system", "qi energy"]
+  },
+  {
+    "id": "wellness",
+    "name": "Wellness & Prevention",
+    "slug": "wellness",
+    "description": "Preventative wellness strategies and holistic health practices. Discover how acupuncture and natural medicine support immune health, digestion, hormonal balance, and overall vitality.",
+    "metaDescription": "Holistic wellness and preventative health through acupuncture. Learn natural approaches to immune support, digestion, hormonal balance, and vitality.",
+    "icon": "heart",
+    "color": "#10b981",
+    "featuredImage": "/images/categories/wellness.svg",
+    "parent": null,
+    "articleCount": 0,
+    "seoKeywords": ["holistic wellness", "preventative health", "natural medicine", "immune support"]
+  }
+]

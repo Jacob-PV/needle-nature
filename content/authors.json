@@ -1,0 +1,30 @@
+[
+  {
+    "id": "dr-sarah-chen",
+    "name": "Dr. Sarah Chen",
+    "slug": "dr-sarah-chen",
+    "bio": "Dr. Sarah Chen is a licensed acupuncturist (L.Ac.) and Doctor of Acupuncture and Chinese Medicine (DACM) with over 15 years of clinical experience. She specializes in pain management and integrative wellness, combining Traditional Chinese Medicine with evidence-based Western medical knowledge. Dr. Chen completed her doctoral training at the Pacific College of Health and Science and maintains active certification with the National Certification Commission for Acupuncture and Oriental Medicine (NCCAOM).",
+    "credentials": "DACM, L.Ac., NCCAOM Certified",
+    "expertise": ["Pain Management", "Women's Health", "Stress Relief", "Integrative Medicine"],
+    "photo": "/images/authors/dr-sarah-chen.svg",
+    "socialLinks": {
+      "linkedin": "https://linkedin.com/in/drsarahchen",
+      "website": "https://drsarahchen.com"
+    },
+    "articleCount": 0
+  },
+  {
+    "id": "michael-rodriguez",
+    "name": "Michael Rodriguez",
+    "slug": "michael-rodriguez",
+    "bio": "Michael Rodriguez is a board-certified acupuncturist specializing in sports medicine and injury rehabilitation. With a Master's degree in Traditional Chinese Medicine and additional training in sports acupuncture, he has worked with professional athletes and active individuals for over a decade. Michael is passionate about making acupuncture accessible and bridging Eastern and Western approaches to healing.",
+    "credentials": "M.S.TCM, L.Ac., Dipl.Ac. (NCCAOM)",
+    "expertise": ["Sports Medicine", "Injury Recovery", "Pain Relief", "Performance Optimization"],
+    "photo": "/images/authors/michael-rodriguez.svg",
+    "socialLinks": {
+      "twitter": "https://twitter.com/acuhealer",
+      "linkedin": "https://linkedin.com/in/michaelrodriguezlac"
+    },
+    "articleCount": 0
+  }
+]
