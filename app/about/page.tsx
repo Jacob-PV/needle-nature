@@ -15,64 +15,44 @@ export default function AboutPage() {
         About Needle & Nature
       </h1>
 
-      <div className="prose">
+      <div className="prose-spiritual">
         <p className="text-xl text-dark-gray font-serif leading-relaxed mb-8">
-          Needle & Nature is your trusted source for evidence-based information about acupuncture,
-          Traditional Chinese Medicine, and holistic wellness.
+          Needle & Nature is a sanctuary for those seeking to understand and honor their body's innate healing wisdom through the gentle, time-tested practices of acupuncture and Traditional Chinese Medicine.
         </p>
 
-        <h2>Our Mission</h2>
+        <h2>Our Heart</h2>
         <p>
-          We believe that everyone deserves access to accurate, trustworthy information about
-          acupuncture and Traditional Chinese Medicine. Our mission is to bridge the gap between
-          ancient wisdom and modern science, providing clear, well-researched content that
-          empowers you to make informed decisions about your health.
+          We believe healing happens when you feel safe, supported, and deeply connected to your body's natural wisdom. Our purpose is to create a peaceful space where ancient healing practices meet modern understanding—helping you discover gentle, holistic paths to balance, relief, and wholeness. You deserve to feel at home in your body, and we're here to support that journey.
         </p>
 
         <h2>Our Approach</h2>
         <p>
-          Every article on Needle & Nature is written or reviewed by licensed acupuncturists
-          and TCM practitioners with years of clinical experience. We combine traditional
-          knowledge with current research, always citing credible sources including
-          peer-reviewed studies, medical journals, and expert consensus.
+          Everything you read here is crafted by licensed acupuncturists and TCM practitioners who've dedicated their lives to understanding the body's subtle energies and natural healing rhythms. We honor both the ancient wisdom passed down through generations and the insights of modern research—always seeking the truth that serves your wellbeing.
         </p>
 
         <h3>What Makes Us Different</h3>
         <ul>
           <li>
-            <strong>Expert Authors:</strong> All content is created by licensed, credentialed
-            acupuncture and TCM professionals.
+            <strong>Compassionate Guidance:</strong> Every piece is written by practitioners who see you as a whole person—body, mind, and spirit—not just a set of symptoms.
           </li>
           <li>
-            <strong>Evidence-Based:</strong> We support health claims with research and cite
-            credible sources including PubMed, NIH, and medical journals.
+            <strong>Grounded in Truth:</strong> We share what we know from both ancient practice and modern understanding, always honest about what helps and what remains a mystery.
           </li>
           <li>
-            <strong>Balanced Perspective:</strong> We present both traditional TCM theory and
-            modern scientific understanding, acknowledging limitations and uncertainties.
+            <strong>Honoring All Perspectives:</strong> We hold space for Traditional Chinese Medicine's spiritual wisdom alongside Western science's insights, finding harmony between both.
           </li>
           <li>
-            <strong>Regular Updates:</strong> Articles are reviewed and updated to reflect
-            the latest research and best practices.
+            <strong>Growing with You:</strong> As our collective understanding of healing deepens, we revisit and refine our guidance to serve you better.
           </li>
           <li>
-            <strong>Educational Focus:</strong> We prioritize education over promotion,
-            providing information to help you understand acupuncture and wellness.
+            <strong>Here to Support, Not Sell:</strong> Our only goal is to help you feel more at peace in your body and more connected to your natural healing capacity.
           </li>
         </ul>
 
-        <h2>Editorial Standards</h2>
+        <h2>Our Integrity</h2>
         <p>
-          We maintain strict editorial standards to ensure the accuracy and credibility of
-          our content:
+          We hold ourselves to deep integrity in everything we share: We speak truthfully about what acupuncture can and cannot do. We honor our training and licenses while staying humble about the mysteries of healing. We acknowledge when something is ancient wisdom versus modern proof. We're transparent about when articles were published and updated. And we always, always encourage you to trust your own body's wisdom and work with qualified practitioners for personalized care.
         </p>
-        <ul>
-          <li>All health claims must be supported by credible sources</li>
-          <li>Authors must disclose credentials and potential conflicts of interest</li>
-          <li>Content is reviewed for medical accuracy and clarity</li>
-          <li>We clearly distinguish between traditional theory and modern evidence</li>
-          <li>Articles include publication and last-updated dates for transparency</li>
-        </ul>
 
         <h2>Meet Our Experts</h2>
         <p>

@@ -153,4 +153,66 @@
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
+
+  /* Spiritual wellness gradients */
+  .bg-gradient-sage {
+    background: linear-gradient(135deg, #a8c5ba 0%, #fcf9f4 100%);
+  }
+
+  .bg-gradient-forest {
+    background: linear-gradient(180deg, #0f3830 0%, #14453d 100%);
+  }
+
+  .bg-gradient-earth {
+    background: linear-gradient(135deg, #8B7355 0%, #e8dcc8 50%, #fcf9f4 100%);
+  }
+
+  .bg-gradient-mist {
+    background: linear-gradient(180deg, #f5f5f0 0%, #fcf9f4 100%);
+  }
+
+  .bg-gradient-warm {
+    background: linear-gradient(135deg, #fcf9f4 0%, #e8dcc8 100%);
+  }
+
+  /* Overlay gradients */
+  .overlay-forest {
+    background: linear-gradient(180deg, rgba(20, 69, 61, 0.05) 0%, rgba(20, 69, 61, 0) 100%);
+  }
+
+  .overlay-warm {
+    background: linear-gradient(180deg, rgba(232, 220, 200, 0.3) 0%, rgba(252, 249, 244, 0) 100%);
+  }
+
+  /* Custom component utilities */
+  .prose-spiritual {
+    @apply prose;
+    line-height: 1.9;
+  }
+
+  .prose-spiritual h2,
+  .prose-spiritual h3 {
+    letter-spacing: -0.01em;
+  }
+
+  .card-organic {
+    @apply rounded-soft shadow-soft transition-all duration-200;
+  }
+
+  .card-organic:hover {
+    @apply shadow-gentle transform -translate-y-1;
+  }
+
+  .section-breathing {
+    @apply py-20 md:py-24;
+  }
+
+  /* Respect reduced motion preference */
+  @media (prefers-reduced-motion: reduce) {
+    .animate-float,
+    .animate-glow,
+    .animate-expand {
+      animation: none;
+    }
+  }
 }

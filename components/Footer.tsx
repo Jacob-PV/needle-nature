@@ -32,8 +32,7 @@ export default function Footer() {
               {siteConfig.siteName}
             </h3>
             <p className="text-sm text-warm-cream/90 leading-relaxed">
-              Evidence-based acupuncture and wellness information.
-              Exploring Traditional Chinese Medicine with modern research.
+              A sanctuary for your healing journey. Exploring the gentle wisdom of Traditional Chinese Medicine with compassion and care.
             </p>
           </div>
 

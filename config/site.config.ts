@@ -2,7 +2,7 @@ import { SiteConfig } from '@/types';
 
 export const siteConfig: SiteConfig = {
   siteName: 'Needle & Nature',
-  siteDescription: 'Evidence-based acupuncture and wellness information. Explore Traditional Chinese Medicine, pain relief, mental health support, and natural healing approaches backed by research.',
+  siteDescription: 'A sanctuary for your healing journey. Discover the gentle wisdom of Traditional Chinese Medicine and acupuncture for pain relief, emotional balance, and holistic wellbeing. Compassionate guidance grounded in ancient practice and modern understanding.',
   siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://needleandnature.com',
   defaultOgImage: '/images/og-default.webp',
   socialLinks: {
