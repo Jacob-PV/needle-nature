@@ -7,7 +7,7 @@
     "metaDescription": "Evidence-based acupuncture treatments for chronic pain relief. Expert guidance on managing back pain, migraines, arthritis, and more through Traditional Chinese Medicine.",
     "icon": "pain",
     "color": "#14453d",
-    "featuredImage": "/images/categories/pain-relief.svg",
+    "featuredImage": "/images/categories/pain-relief.webp",
     "parent": null,
     "articleCount": 0,
     "seoKeywords": ["acupuncture for pain", "chronic pain relief", "back pain treatment", "pain management"]
@@ -20,7 +20,7 @@
     "metaDescription": "Evidence-based acupuncture for mental health. Learn how TCM supports anxiety relief, depression management, stress reduction, and better sleep quality.",
     "icon": "brain",
     "color": "#7a9e94",
-    "featuredImage": "/images/categories/mental-health.svg",
+    "featuredImage": "/images/categories/mental-health.webp",
     "parent": null,
     "articleCount": 0,
     "seoKeywords": ["acupuncture for anxiety", "stress relief", "natural depression treatment", "sleep improvement"]
@@ -33,7 +33,7 @@
     "metaDescription": "Learn acupressure techniques for self-care. Step-by-step pressure point guides for headache relief, nausea, stress, and natural healing at home.",
     "icon": "hand",
     "color": "#0d9488",
-    "featuredImage": "/images/categories/acupressure.svg",
+    "featuredImage": "/images/categories/acupressure.webp",
     "parent": null,
     "articleCount": 0,
     "seoKeywords": ["acupressure points", "pressure point therapy", "self acupressure", "acupressure techniques"]
@@ -46,7 +46,7 @@
     "metaDescription": "Explore Traditional Chinese Medicine principles, meridian systems, qi energy, and the ancient wisdom behind acupuncture and holistic healing practices.",
     "icon": "yin-yang",
     "color": "#14453d",
-    "featuredImage": "/images/categories/tcm.svg",
+    "featuredImage": "/images/categories/tcm.webp",
     "parent": null,
     "articleCount": 0,
     "seoKeywords": ["traditional chinese medicine", "TCM principles", "meridian system", "qi energy"]
@@ -59,7 +59,7 @@
     "metaDescription": "Holistic wellness and preventative health through acupuncture. Learn natural approaches to immune support, digestion, hormonal balance, and vitality.",
     "icon": "heart",
     "color": "#10b981",
-    "featuredImage": "/images/categories/wellness.svg",
+    "featuredImage": "/images/categories/wellness.webp",
     "parent": null,
     "articleCount": 0,
     "seoKeywords": ["holistic wellness", "preventative health", "natural medicine", "immune support"]
